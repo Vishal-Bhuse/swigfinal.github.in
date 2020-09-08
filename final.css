@@ -1,0 +1,159 @@
+.a {
+	height: 500px;
+	width: 50%;
+	background-color: white;
+	float: left;
+}
+.b {
+	height: 180px;
+	width: 100%;
+	background-color: white;
+	float: left;
+	
+}
+.b ul {
+	margin: 50px 0px 0px 300px;
+}
+.c {
+	height: 500px;
+	width: 50%;
+	background-color: red;
+	float: left;
+
+}
+.d {
+	height: 400px;
+	width: 100%;
+	background-color: grey;
+	float: left;
+
+}
+.d1 {
+	height: 400px;
+	width: 33.33%;
+	background-color: #2B1E16;
+	float: left;
+}
+#d1 {
+	height: 220px;
+	width: 30%;
+	margin: 2px 0px 0px 150px;
+}
+#h2 {
+	color: white;
+	margin-left: 120px;
+	text-indent: 10px;
+}
+#h4 {
+	color: white;
+	margin-left: 100px;
+	word-spacing: 2px;
+}
+
+/*@media(min-width: 667px)
+
+{
+	.h {
+		height: 00px;
+	width: 100%;
+	background-color: black;/*red color for 70 line
+	float: left;
+
+	}
+}*/*/
+ul {
+	list-style-type: none;
+	float: left;	
+	margin-left:   120px;
+	margin-top:  50px;
+}
+li {
+	display: inline-block;
+	font-size: 20px;
+	text-align: top;
+	margin-left: 45px;
+
+}
+
+.e {
+	height: 550px;
+	width: 40%;
+	background-color: white;
+	float: left;
+}
+.e h1 {
+	font-size: 40px;
+	margin: 95px 10px 0px 95px;
+	font-family: sans-serif;
+}
+.e h6 {
+	margin: 25px 10px 0px 95px;
+	font-family: sans-serif;
+	color:  grey;
+	font-size: 20px;
+
+}
+
+.e img {
+	height: 70px;
+	width: 200px;
+	float: left;
+	margin-left: 60px;
+	margin-top: 50px;
+}
+.f {
+	height: 550px;
+	width: 60%;
+	background-color: white;
+	float: left;
+}
+
+.f img {
+	 height: 500px;
+	 width: 50%;
+	 float: left;
+}
+.g {
+	height:535%;
+	width: 100%;
+	float: left;
+	background-color: black;
+}
+
+.g1 {
+	height: 525%;
+	width: 25%;
+	background-color: black;
+	float: left;
+	margin-top: 0px;
+
+}
+.g1 ul {
+
+	margin-left: 5px;
+	float: left;
+
+}
+.g1 li {
+	display: block;
+	color: white;
+	line-height: 35px;
+}
+.g h4 {
+	
+	margin:40px 0px 0px 350px;
+	font-size: 20px; 
+	float: left;
+	color: white;
+}
+.h {
+	height: 400px;
+	width: 100%;
+	background-color: black;/*red color for 70 line*/
+	float: left;"
+}
+.h1 {
+	height: 440px;
+	width: 25%;
+	background-color: black;
+}
